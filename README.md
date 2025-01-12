@@ -4,15 +4,19 @@
 This project aimed to develop a comprehensive credit card weekly dashboard for real-time monitoring of key performance metrics and trends. Two dashboards were created: **Credit Card Transaction Report** and **Credit Card Customer Report**, using data imported into SQL and visualized in Power BI. The dashboards reveal week-on-week trends, year-to-date overviews, and insights into customer behavior. Highlights include a **28.8%** increase in weekly revenue and a total year-to-date revenue of **$56.5M**. Total interest earned is **$8M**, and the transaction count reached **667K**. These insights assist stakeholders in evaluating operations and identifying growth opportunities.
 
 ### Introduction
-**Objective:** To enable stakeholders to monitor and analyze credit card operations effectively through real-time insights into key performance metrics and trends.
-**Audience:** Financial analysts, credit card operations managers, and executives.
-**Scope:** Weekly and year-to-date performance metrics, customer demographics, and transaction patterns.
+**Objective:** To enable stakeholders to monitor and analyze credit card operations effectively through real-time insights into key performance metrics and trends.  
+
+**Audience:** Financial analysts, credit card operations managers, and executives.  
+
+**Scope:** Weekly and year-to-date performance metrics, customer demographics, and transaction patterns.  
+
 
 ### Data Description
 **Datasets Used:**
 1. **credit_card.csv**: Contains variables such as Client_Num, Card_Category, Activation_30_Days, Customer_Acq_Cost, Credit_Limit, Total_Trans_Amt, Avg_Utilization_Ratio, Interest_Earned, and Delinquent_Acc.
 2. **customer.csv**: Includes Client_Num, Customer_Age, Gender, Income, Cust_Satisfaction_Score, and Marital_Status.
 3. **cc_additional.csv** and **cust_additional.csv**: Includes some additional data to verify the real time data integration.
+     
 **Data Preparation:**
 1. CSV files were cleaned and preprocessed to handle missing values and standardize formats.
 2. Tables were created in SQL for seamless querying and analysis.
@@ -35,7 +39,7 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 - Revenue by Week (showing trends across 2024).
 - Revenue by Quater(Q1,Q2,Q3,Q4), Gender(M,F), Chip Usage Type(Swipe, Chip, Online) and Card category(Gold, Silver,Platinum, Blue)
 - Details on Revenue, Sum of Total transaction amount, sum of Income based on customer Job.
-
+- 
 **Tools Used:** Power BI for visualization, SQL for data management, and Excel for preprocessing.
 
 ### Key Insights
@@ -57,7 +61,7 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 2. **Enhanced Visualizations**: Add drill-through functionality and advanced filtering options in dashboards.
    
 ### Appendices
-1. Dynamic Dashboard - PowerBI_file
-2. Static Image - Pdf_file
-3. Queries and formulas - SQL_query, DAX_query
-4. Raw Data Overview - credit_card.csv , customer.csv
+1. Dynamic Dashboard - [PowerBI_file](https://github.com/liyapaul24/Credit_Card_Financial_Dashboard/blob/main/Report/Credit_Card_Report.pbix)
+2. Static Image - [Pdf_file](https://github.com/liyapaul24/Credit_Card_Financial_Dashboard/blob/main/Report/Credit_Card_Weekly_Report.pdf)
+3. Queries and formulas - [SQL_query](https://github.com/liyapaul24/Credit_Card_Financial_Dashboard/blob/main/Data/SQLQuery.sql), [DAX_query](https://github.com/liyapaul24/Credit_Card_Financial_Dashboard/blob/main/Data/DAX%20Queries.docx)
+4. Raw Data Overview - [credit_card.csv](https://github.com/liyapaul24/Credit_Card_Financial_Dashboard/blob/main/Data/credit_card.csv) , [customer.csv](https://github.com/liyapaul24/Credit_Card_Financial_Dashboard/blob/main/Data/customer.csv)
