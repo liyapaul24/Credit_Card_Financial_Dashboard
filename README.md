@@ -21,20 +21,20 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 ### Dashboard Design
 **Dashboards Created:**
 1. **Credit Card Transaction Report:**
--Revenue by Quarter and Total Transaction Volume.
--Details on Revenue, Sum of Interest Earned, sum of annual fees based on card category.
--Revenue by Expenditure Type, Education and Customer Job.
--Customer Acquisition Cost and by Chip Usage Type (Swipe, Chip, Online).
--Revenue by Week (showing trends across 2024).
--Revenue by Quater(Q1,Q2,Q3,Q4), Gender(M,F), Incomegroup(low, Med,High) and Card category(Gold, Silver,Platinum, Blue)
+- Revenue by Quarter and Total Transaction Volume.
+- Details on Revenue, Sum of Interest Earned, sum of annual fees based on card category.
+- Revenue by Expenditure Type, Education and Customer Job.
+- Customer Acquisition Cost and by Chip Usage Type (Swipe, Chip, Online).
+- Revenue by Week (showing trends across 2024).
+- Revenue by Quater(Q1,Q2,Q3,Q4), Gender(M,F), Incomegroup(low, Med,High) and Card category(Gold, Silver,Platinum, Blue)
 
 2. **Credit Card Customer Report:**
--Datas based on Gender
--Revenue by Top 5 States (TX, NY, CA, FL, NJ),Salary Group (High, Medium, Low).
--Revenue by Dependent Count, Marital Status, Education level and Age group.
--Revenue by Week (showing trends across 2024).
--Revenue by Quater(Q1,Q2,Q3,Q4), Gender(M,F), Chip Usage Type(Swipe, Chip, Online) and Card category(Gold, Silver,Platinum, Blue)
--Details on Revenue, Sum of Total transaction amount, sum of Income based on customer Job.
+- Datas based on Gender
+- Revenue by Top 5 States (TX, NY, CA, FL, NJ),Salary Group (High, Medium, Low).
+- Revenue by Dependent Count, Marital Status, Education level and Age group.
+- Revenue by Week (showing trends across 2024).
+- Revenue by Quater(Q1,Q2,Q3,Q4), Gender(M,F), Chip Usage Type(Swipe, Chip, Online) and Card category(Gold, Silver,Platinum, Blue)
+- Details on Revenue, Sum of Total transaction amount, sum of Income based on customer Job.
 
 **Tools Used:** Power BI for visualization, SQL for data management, and Excel for preprocessing.
 
