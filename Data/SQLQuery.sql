@@ -71,3 +71,29 @@ WITH
 );
 
 SELECT * FROM cust_detail;
+
+----Inserted additional data into cc_detail table from .csv file
+
+BULK INSERT ccdb.dbo.cc_detail
+FROM 'E:\Data Analytics\Projects\Credit Card Financial Dashboard\cc_additional.csv'
+WITH
+(
+    FIELDTERMINATOR = ',',  -- Indicates that the fields are separated by commas
+    ROWTERMINATOR = '\n',   -- Indicates that each row ends with a newline character
+    FIRSTROW = 2           -- Skips the header row in the CSV (if present)
+);
+
+SELECT * FROM cc_detail;
+
+----Inserted additional data into cust_detail table from .csv file
+
+BULK INSERT ccdb.dbo.cust_detail
+FROM 'E:\Data Analytics\Projects\Credit Card Financial Dashboard\cust_additional.csv'
+WITH
+(
+    FIELDTERMINATOR = ',',  -- Indicates that the fields are separated by commas
+    ROWTERMINATOR = '\n',   -- Indicates that each row ends with a newline character
+    FIRSTROW = 2           -- Skips the header row in the CSV (if present)
+);
+
+SELECT * FROM cust_detail;
