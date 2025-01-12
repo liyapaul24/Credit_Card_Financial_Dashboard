@@ -1,5 +1,5 @@
-# Credit_Card_Weekly_Dashboard
-# Executive Summary
+## Credit_Card_Weekly_Dashboard 
+### Executive Summary
 This project aimed to develop a comprehensive credit card weekly dashboard for real-time monitoring of key performance metrics and trends. Two dashboards were created: **Credit Card Transaction Report** and **Credit Card Customer Report**, using data imported into SQL and visualized in Power BI. The dashboards reveal week-on-week trends, year-to-date overviews, and insights into customer behavior. Highlights include a **28.8%** increase in weekly revenue and a total year-to-date revenue of **$56.5M**. Total interest earned is **$8M**, and the transaction count reached **667K**. These insights assist stakeholders in evaluating operations and identifying growth opportunities.
 # Introduction
 **Objective:** To enable stakeholders to monitor and analyze credit card operations effectively through real-time insights into key performance metrics and trends.
