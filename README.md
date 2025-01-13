@@ -1,15 +1,15 @@
 # Credit_Card_Financial_Dashboard 
 
 ### Table of Contents
-- [Executive Summary](#Executive Summary)
-- [Introduction](### Introduction)
-- [Data Description](### Data Description)
-- [Dashboard Design](### Dashboard Design)
-- [Key Insights](### Key Insights)
-- [Recommendations](### Recommendations)
-- [Challenges and Limitations](### Challenges and Limitations)
-- [Future Work](### Future Work)
-- [Appendices](### Appendices)
+- [Executive Summary](#executive-summary)
+- [Introduction](#Introduction)
+- [Data Description](#Data-Description)
+- [Dashboard Design](#Dashboard-Design)
+- [Key Insights](#Key-Insights)
+- [Recommendations](#Recommendations)
+- [Challenges and Limitations](#Challenges-and-Limitations)
+- [Future Work](#Future-Work)
+- [Appendices](#Appendices)
   
 ### Executive Summary
 This project aimed to develop a comprehensive credit card weekly dashboard for real-time monitoring of key performance metrics and trends. Two dashboards were created: **Credit Card Transaction Report** and **Credit Card Customer Report**, using data imported into SQL and visualized in Power BI. The dashboards reveal week-on-week trends, year-to-date overviews, and insights into customer behavior. Highlights include a **28.8%** increase in weekly revenue and a total year-to-date revenue of **$56.5M**. Total interest earned is **$8M**, and the transaction count reached **667K**. These insights assist stakeholders in evaluating operations and identifying growth opportunities.
@@ -34,6 +34,8 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 ### Dashboard Design
 **Dashboards Created:**
 1. **Credit Card Transaction Report:**
+![image](https://github.com/user-attachments/assets/74c9dea5-3d58-4acc-a4d3-6c6532e28940)
+
 - Revenue by Quarter and Total Transaction Volume.
 - Details on Revenue, Sum of Interest Earned, sum of annual fees based on card category.
 - Revenue by Expenditure Type, Education and Customer Job.
@@ -42,6 +44,8 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 - Revenue by Quater(Q1,Q2,Q3,Q4), Gender(M,F), Incomegroup(low, Med,High) and Card category(Gold, Silver,Platinum, Blue)
 
 2. **Credit Card Customer Report:**
+![image](https://github.com/user-attachments/assets/0f06f8b6-9916-4d1c-b8f8-a81c1e7b6d15)
+
 - Datas based on Gender
 - Revenue by Top 5 States (TX, NY, CA, FL, NJ),Salary Group (High, Medium, Low).
 - Revenue by Dependent Count, Marital Status, Education level and Age group.
@@ -55,35 +59,35 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 
 **Weekly Insights**
 
-1. **Revenue Growth**: Weekly revenue increased significantly by 28.8%, indicating improved customer activity or successful promotional strategies.  
-2. **Transaction Amount Surge**: A substantial 35.0% growth in transaction amounts suggests higher spending per customer or increased frequency of high-value transactions.
-4. **Transaction Count Increase**: The number of transactions rose by 3.39%, reflecting a broader customer engagement.  
-5. **Customer Satisfaction Dip**: Despite higher activity, customer satisfaction dropped by 6.5%, pointing to potential service or experience issues.  
-6. **Customer Base Expansion**: The customer count grew by 12.8%, showing the success of acquisition efforts or seasonal demand.  
+1. **Revenue Growth**: Weekly revenue increased significantly by **28.8%**, indicating improved customer activity or successful promotional strategies.  
+2. **Transaction Amount Surge**: A substantial **35.0%** growth in transaction amounts suggests higher spending per customer or increased frequency of high-value transactions.
+4. **Transaction Count Increase**: The number of transactions rose by **3.39%**, reflecting a broader customer engagement.  
+5. **Customer Satisfaction Dip**: Despite higher activity, customer satisfaction dropped by **6.5%**, pointing to potential service or experience issues.  
+6. **Customer Base Expansion**: The customer count grew by **12.8%**, showing the success of acquisition efforts or seasonal demand.  
 
 **Year-To-Date Performance and Insights**
 
 1. **Total Metrics**:
-- Total revenue reached $56.5M, with a transaction amount of $46M and interest earned of $8M.
-- Male customers contributed $31M, while females contributed $26M.
-- Blue and Silver cards accounted for 93% of all transactions.
+- Total revenue reached **$56.5M**, with a transaction amount of **$46M** and interest earned of **$8M**.
+- Male customers contributed **$31M**, while females contributed **$26M**.
+- Blue and Silver cards accounted for **93%** of all transactions.
 
 2. **Geographical and Demographic Contributions**:
-- **Top States**: TX, NY, and CA collectively contributed 68% of total revenue, while NJ lagged at $2M.
-- **Age Groups**: Customers aged 50-60 contributed the most revenue ($14M), followed by 20-30-year-olds ($11M).
-- **Salary Groups**: High-income earners led with $23M, highlighting strong alignment with premium products.
+- **Top States**: TX, NY, and CA collectively contributed **68%** of total revenue, while NJ lagged at **$2M**.
+- **Age Groups**: Customers aged 50-60 contributed the most revenue (**$14M**), followed by 20-30-year-olds (**$11M**).
+- **Salary Groups**: High-income earners led with **$23M**, highlighting strong alignment with premium products.
 
 3. **Behavioral Insights**:
-- **Expenditure Patterns**: Bills generated the highest revenue ($14M), while Travel ($6M) represented an area with growth potential.
-- **Transaction Channels**: Swipe transactions dominated ($36M), followed by Chip ($17M) and Online ($4M), suggesting room to promote digital adoption.
+- **Expenditure Patterns**: Bills generated the highest revenue (**$14M**), while Travel (**$6M**) represented an area with growth potential.
+- **Transaction Channels**: Swipe transactions dominated (**$36M**), followed by Chip (**$17M**) and Online (**$4M**), suggesting room to promote digital adoption.
 
 4. **Customer Acquisition and Engagement**:
-- Blue cards had the highest acquisition cost ($0.90M), while Platinum and Gold were the most cost-efficient.
-- Businessmen contributed the highest revenue ($18M), while Retirees contributed the least ($5M), indicating opportunities for targeted engagement.
-- Graduates led revenue contributions ($23M), whereas Doctorate holders contributed minimally (<$3M).
+- Blue cards had the highest acquisition cost (**$0.90M**), while Platinum and Gold were the most cost-efficient.
+- Businessmen contributed the highest revenue (**$18M**), while Retirees contributed the least (**$5M**), indicating opportunities for targeted engagement.
+- Graduates led revenue contributions (**$23M**), whereas Doctorate holders contributed minimally (**<$3M**).
 
 5. **Performance Ratios**:
-- Activation rate stood at 57.5%, while delinquency rate was 6.06%, reflecting overall operational health and opportunities for improvement.
+- Activation rate stood at **57.5%**, while delinquency rate was **6.06%**, reflecting overall operational health and opportunities for improvement.
 
 ### Recommendations
 1. **Customer Segmentation**: Focus on Blue and Silver card customers, as they contribute the majority of revenue and transactions.
