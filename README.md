@@ -70,12 +70,12 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 1. **Total Metrics**:
 - Total revenue reached **$56.5M**, with a transaction amount of **$46M** and interest earned of **$8M**.
 - Male customers contributed **$31M**, while females contributed **$26M**.
-- Blue and Silver cards accounted for **93%** of all transactions.
+- Blue and Silver cards accounted for **93.4%** of all transactions.
 
 2. **Geographical and Demographic Contributions**:
-- **Top States**: TX, NY, and CA collectively contributed **68%** of total revenue, while NJ lagged at **$2M**.
-- **Age Groups**: Customers aged 50-60 contributed the most revenue (**$14M**), followed by 20-30-year-olds (**$11M**).
-- **Salary Groups**: High-income earners led with **$23M**, highlighting strong alignment with premium products.
+- **Top States**: TX, NY, CA,FL and NJ collectively contributed **89%** of total revenue.
+- **Age Groups**: Customers aged 50-60 contributed the most revenue (**$25M**), followed by 50-60-year-olds (**$19M**).
+- **Salary Groups**: High-income earners led with **$29M**, highlighting strong alignment with premium products.
 
 3. **Behavioral Insights**:
 - **Expenditure Patterns**: Bills generated the highest revenue (**$14M**), while Travel (**$6M**) represented an area with growth potential.
@@ -84,10 +84,10 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 4. **Customer Acquisition and Engagement**:
 - Blue cards had the highest acquisition cost (**$0.90M**), while Platinum and Gold were the most cost-efficient.
 - Businessmen contributed the highest revenue (**$18M**), while Retirees contributed the least (**$5M**), indicating opportunities for targeted engagement.
-- Graduates led revenue contributions (**$23M**), whereas Doctorate holders contributed minimally (**<$3M**).
+- Graduates led revenue contributions (**$23M**), whereas Doctorate holders contributed minimally (**$2M**).
 
 5. **Performance Ratios**:
-- Activation rate stood at **57.5%**, while delinquency rate was **6.06%**, reflecting overall operational health and opportunities for improvement.
+- Activation rate stood at **57.4%**, while delinquency rate was **6.1%**, reflecting overall operational health and opportunities for improvement.
 
 ### Recommendations
 1. **Customer Segmentation**: Focus on Blue and Silver card customers, as they contribute the majority of revenue and transactions.
