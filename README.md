@@ -34,8 +34,8 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 ### Dashboard Design
 **Dashboards Created:**
 1. **Credit Card Transaction Report:**
+   
 ![image](https://github.com/user-attachments/assets/74c9dea5-3d58-4acc-a4d3-6c6532e28940)
-
 - Revenue by Quarter and Total Transaction Volume.
 - Details on Revenue, Sum of Interest Earned, sum of annual fees based on card category.
 - Revenue by Expenditure Type, Education and Customer Job.
@@ -44,8 +44,8 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 - Revenue by Quater(Q1,Q2,Q3,Q4), Gender(M,F), Incomegroup(low, Med,High) and Card category(Gold, Silver,Platinum, Blue)
 
 2. **Credit Card Customer Report:**
-![image](https://github.com/user-attachments/assets/0f06f8b6-9916-4d1c-b8f8-a81c1e7b6d15)
 
+![image](https://github.com/user-attachments/assets/0f06f8b6-9916-4d1c-b8f8-a81c1e7b6d15)
 - Datas based on Gender
 - Revenue by Top 5 States (TX, NY, CA, FL, NJ),Salary Group (High, Medium, Low).
 - Revenue by Dependent Count, Marital Status, Education level and Age group.
