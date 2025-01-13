@@ -1,7 +1,7 @@
 # Credit_Card_Financial_Dashboard 
 
 ### Table of Contents
-- [Executive Summary](### Executive Summary)
+- [Executive Summary](#Executive Summary)
 - [Introduction](### Introduction)
 - [Data Description](### Data Description)
 - [Dashboard Design](### Dashboard Design)
@@ -55,25 +55,25 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 
 **Weekly Insights**
 
-1.**Revenue Growth**: Weekly revenue increased significantly by 28.8%, indicating improved customer activity or successful promotional strategies.
-2.**Transaction Amount Surge**: A substantial 35.0% growth in transaction amounts suggests higher spending per customer or increased frequency of high-value transactions.
-3.**Transaction Count Increase**: The number of transactions rose by 3.39%, reflecting a broader customer engagement.
-4.**Customer Satisfaction Dip**: Despite higher activity, customer satisfaction dropped by 6.5%, pointing to potential service or experience issues.
-5.**Customer Base Expansion**: The customer count grew by 12.8%, showing the success of acquisition efforts or seasonal demand.
+1. **Revenue Growth**: Weekly revenue increased significantly by 28.8%, indicating improved customer activity or successful promotional strategies.  
+2. **Transaction Amount Surge**: A substantial 35.0% growth in transaction amounts suggests higher spending per customer or increased frequency of high-value transactions.
+4. **Transaction Count Increase**: The number of transactions rose by 3.39%, reflecting a broader customer engagement.  
+5. **Customer Satisfaction Dip**: Despite higher activity, customer satisfaction dropped by 6.5%, pointing to potential service or experience issues.  
+6. **Customer Base Expansion**: The customer count grew by 12.8%, showing the success of acquisition efforts or seasonal demand.  
 
 **Year-To-Date Performance and Insights**
 
-1.**Total Metrics**:
+1. **Total Metrics**:
 - Total revenue reached $56.5M, with a transaction amount of $46M and interest earned of $8M.
 - Male customers contributed $31M, while females contributed $26M.
 - Blue and Silver cards accounted for 93% of all transactions.
 
-2.**Geographical and Demographic Contributions**:
+2. **Geographical and Demographic Contributions**:
 - **Top States**: TX, NY, and CA collectively contributed 68% of total revenue, while NJ lagged at $2M.
 - **Age Groups**: Customers aged 50-60 contributed the most revenue ($14M), followed by 20-30-year-olds ($11M).
 - **Salary Groups**: High-income earners led with $23M, highlighting strong alignment with premium products.
 
-3.**Behavioral Insights**:
+3. **Behavioral Insights**:
 - **Expenditure Patterns**: Bills generated the highest revenue ($14M), while Travel ($6M) represented an area with growth potential.
 - **Transaction Channels**: Swipe transactions dominated ($36M), followed by Chip ($17M) and Online ($4M), suggesting room to promote digital adoption.
 
@@ -82,7 +82,7 @@ This project aimed to develop a comprehensive credit card weekly dashboard for r
 - Businessmen contributed the highest revenue ($18M), while Retirees contributed the least ($5M), indicating opportunities for targeted engagement.
 - Graduates led revenue contributions ($23M), whereas Doctorate holders contributed minimally (<$3M).
 
-5.**Performance Ratios**:
+5. **Performance Ratios**:
 - Activation rate stood at 57.5%, while delinquency rate was 6.06%, reflecting overall operational health and opportunities for improvement.
 
 ### Recommendations
